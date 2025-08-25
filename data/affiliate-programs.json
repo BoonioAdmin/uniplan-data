@@ -1,0 +1,407 @@
+{
+  "programs": {
+    "supercurricular": [
+      {
+        "id": "investin",
+        "name": "InvestIn Education",
+        "category": "Career Experience Programs",
+        "baseUrl": "https://investin.org/",
+        "affiliateStructure": "https://investin.org/?ref={affiliateId}",
+        "description": "Work experience programs for students aged 12-18",
+        "programs": [
+          "Investment Banking",
+          "Medicine",
+          "Law",
+          "Engineering",
+          "Architecture"
+        ],
+        "commission": "10-15%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "immerse-education",
+        "name": "Immerse Education",
+        "category": "Academic Summer Schools",
+        "baseUrl": "https://www.immerse.education/",
+        "affiliateStructure": "https://www.immerse.education/?utm_source=affiliate&utm_medium={affiliateId}",
+        "description": "Oxford & Cambridge summer programs",
+        "programs": [
+          "Pre-University",
+          "Creative Arts",
+          "STEM",
+          "Business"
+        ],
+        "commission": "10%",
+        "cookieDuration": "60 days",
+        "enabled": true
+      },
+      {
+        "id": "debate-mate",
+        "name": "Debate Mate",
+        "category": "Debating & Public Speaking",
+        "baseUrl": "https://debatemate.org/",
+        "affiliateStructure": "https://debatemate.org/ref/{affiliateId}",
+        "description": "Debating workshops and competitions",
+        "programs": [
+          "Schools Program",
+          "Summer Schools",
+          "Online Courses"
+        ],
+        "commission": "8%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "brilliant-club",
+        "name": "The Brilliant Club",
+        "category": "University Preparation",
+        "baseUrl": "https://thebrilliantclub.org/",
+        "affiliateStructure": "https://thebrilliantclub.org/?partner={affiliateId}",
+        "description": "University access programs for students",
+        "programs": [
+          "Scholars Programme",
+          "Launch Programme"
+        ],
+        "commission": "5%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "future-learn",
+        "name": "FutureLearn",
+        "category": "Online Courses",
+        "baseUrl": "https://www.futurelearn.com/",
+        "affiliateStructure": "https://www.futurelearn.com/?utm_source=affiliate&utm_campaign={affiliateId}",
+        "description": "University-level online courses",
+        "programs": [
+          "Short Courses",
+          "Microcredentials",
+          "Degrees"
+        ],
+        "commission": "15%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "coursera",
+        "name": "Coursera",
+        "category": "Online Learning",
+        "baseUrl": "https://www.coursera.org/",
+        "affiliateStructure": "https://www.coursera.org/?utm_source=affiliate&utm_medium=partner&utm_campaign={affiliateId}",
+        "description": "University courses and certifications",
+        "programs": [
+          "Certificates",
+          "Specializations",
+          "Degrees"
+        ],
+        "commission": "10-45%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "young-entrepreneurs",
+        "name": "Young Entrepreneurs",
+        "category": "Business & Entrepreneurship",
+        "baseUrl": "https://www.youngentrepreneurs.org/",
+        "affiliateStructure": "https://www.youngentrepreneurs.org/?ref={affiliateId}",
+        "description": "Business programs for young people",
+        "programs": [
+          "Summer Programs",
+          "Weekend Workshops",
+          "Mentorship"
+        ],
+        "commission": "12%",
+        "cookieDuration": "45 days",
+        "enabled": true
+      },
+      {
+        "id": "oxford-royale",
+        "name": "Oxford Royale Academy",
+        "category": "Summer Schools",
+        "baseUrl": "https://www.oxford-royale.com/",
+        "affiliateStructure": "https://www.oxford-royale.com/?aid={affiliateId}",
+        "description": "Oxford summer school programs",
+        "programs": [
+          "Academic Summer",
+          "Career Preparation",
+          "University Prep"
+        ],
+        "commission": "8%",
+        "cookieDuration": "90 days",
+        "enabled": true
+      },
+      {
+        "id": "summer-discovery",
+        "name": "Summer Discovery",
+        "category": "Pre-College Programs",
+        "baseUrl": "https://www.summerdiscovery.com/",
+        "affiliateStructure": "https://www.summerdiscovery.com/?referral={affiliateId}",
+        "description": "Pre-college summer programs worldwide",
+        "programs": [
+          "University Programs",
+          "Gap Year",
+          "Middle School"
+        ],
+        "commission": "10%",
+        "cookieDuration": "60 days",
+        "enabled": true
+      }
+    ],
+    "books": [
+      {
+        "id": "amazon-books",
+        "name": "Amazon Books",
+        "category": "General Books",
+        "baseUrl": "https://www.amazon.co.uk/",
+        "affiliateStructure": "https://www.amazon.co.uk/dp/{isbn}?tag={affiliateId}",
+        "description": "Academic and preparation books",
+        "programs": [
+          "Textbooks",
+          "Study Guides",
+          "Test Prep"
+        ],
+        "commission": "1-10%",
+        "cookieDuration": "24 hours",
+        "enabled": true
+      },
+      {
+        "id": "blackwells",
+        "name": "Blackwell's",
+        "category": "Academic Books",
+        "baseUrl": "https://blackwells.co.uk/",
+        "affiliateStructure": "https://blackwells.co.uk/bookshop/product/{isbn}?a_aid={affiliateId}",
+        "description": "Academic bookshop",
+        "programs": [
+          "University Textbooks",
+          "Academic Books"
+        ],
+        "commission": "5%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "waterstones",
+        "name": "Waterstones",
+        "category": "General Books",
+        "baseUrl": "https://www.waterstones.com/",
+        "affiliateStructure": "https://www.waterstones.com/book/{isbn}?awaid={affiliateId}",
+        "description": "UK bookstore chain",
+        "programs": [
+          "Study Guides",
+          "Fiction",
+          "Non-fiction"
+        ],
+        "commission": "4%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "book-depository",
+        "name": "Book Depository",
+        "category": "International Books",
+        "baseUrl": "https://www.bookdepository.com/",
+        "affiliateStructure": "https://www.bookdepository.com/book/{isbn}?a_aid={affiliateId}",
+        "description": "Free worldwide delivery",
+        "programs": [
+          "Academic",
+          "Professional",
+          "Study Materials"
+        ],
+        "commission": "5%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "pearson",
+        "name": "Pearson",
+        "category": "Educational Publishers",
+        "baseUrl": "https://www.pearson.com/",
+        "affiliateStructure": "https://www.pearson.com/store?affiliate={affiliateId}",
+        "description": "Educational materials and textbooks",
+        "programs": [
+          "Textbooks",
+          "E-learning",
+          "Test Prep"
+        ],
+        "commission": "8%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "cgp-books",
+        "name": "CGP Books",
+        "category": "Study Guides",
+        "baseUrl": "https://www.cgpbooks.co.uk/",
+        "affiliateStructure": "https://www.cgpbooks.co.uk/?ref={affiliateId}",
+        "description": "GCSE and A-Level revision guides",
+        "programs": [
+          "GCSE",
+          "A-Level",
+          "11+",
+          "KS3"
+        ],
+        "commission": "10%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      }
+    ],
+    "test_prep": [
+      {
+        "id": "kaplan",
+        "name": "Kaplan Test Prep",
+        "category": "Test Preparation",
+        "baseUrl": "https://www.kaplan.co.uk/",
+        "affiliateStructure": "https://www.kaplan.co.uk/?partner={affiliateId}",
+        "description": "Test preparation courses",
+        "programs": [
+          "UCAT",
+          "BMAT",
+          "LNAT",
+          "GRE",
+          "GMAT"
+        ],
+        "commission": "10-20%",
+        "cookieDuration": "45 days",
+        "enabled": true
+      },
+      {
+        "id": "medify",
+        "name": "Medify",
+        "category": "Medical Entry Tests",
+        "baseUrl": "https://www.medify.co.uk/",
+        "affiliateStructure": "https://www.medify.co.uk/?ref={affiliateId}",
+        "description": "UCAT and BMAT preparation",
+        "programs": [
+          "UCAT",
+          "BMAT",
+          "Interview Prep"
+        ],
+        "commission": "20%",
+        "cookieDuration": "60 days",
+        "enabled": true
+      },
+      {
+        "id": "the-lawyer-portal",
+        "name": "The Lawyer Portal",
+        "category": "Law Entry Tests",
+        "baseUrl": "https://www.thelawyerportal.com/",
+        "affiliateStructure": "https://www.thelawyerportal.com/?source=affiliate&id={affiliateId}",
+        "description": "LNAT preparation and law guidance",
+        "programs": [
+          "LNAT",
+          "Law Application",
+          "Interview Prep"
+        ],
+        "commission": "15%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      }
+    ],
+    "tutoring": [
+      {
+        "id": "mytutor",
+        "name": "MyTutor",
+        "category": "Online Tutoring",
+        "baseUrl": "https://www.mytutor.co.uk/",
+        "affiliateStructure": "https://www.mytutor.co.uk/?referral={affiliateId}",
+        "description": "Online tutoring platform",
+        "programs": [
+          "GCSE",
+          "A-Level",
+          "11+",
+          "University"
+        ],
+        "commission": "£20 per conversion",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "tutorful",
+        "name": "Tutorful",
+        "category": "Private Tutoring",
+        "baseUrl": "https://tutorful.co.uk/",
+        "affiliateStructure": "https://tutorful.co.uk/?ref={affiliateId}",
+        "description": "Find local and online tutors",
+        "programs": [
+          "Academic",
+          "Languages",
+          "Music",
+          "Test Prep"
+        ],
+        "commission": "£15 per booking",
+        "cookieDuration": "30 days",
+        "enabled": true
+      }
+    ],
+    "career_programs": [
+      {
+        "id": "prospects",
+        "name": "Prospects",
+        "category": "Career Guidance",
+        "baseUrl": "https://www.prospects.ac.uk/",
+        "affiliateStructure": "https://www.prospects.ac.uk/?partner={affiliateId}",
+        "description": "Graduate careers and postgraduate study",
+        "programs": [
+          "Career Advice",
+          "Job Search",
+          "Postgraduate Courses"
+        ],
+        "commission": "5%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "bright-network",
+        "name": "Bright Network",
+        "category": "Graduate Careers",
+        "baseUrl": "https://www.brightnetwork.co.uk/",
+        "affiliateStructure": "https://www.brightnetwork.co.uk/?ref={affiliateId}",
+        "description": "Career opportunities for students and graduates",
+        "programs": [
+          "Internships",
+          "Graduate Schemes",
+          "Work Experience"
+        ],
+        "commission": "£25 per placement",
+        "cookieDuration": "45 days",
+        "enabled": true
+      },
+      {
+        "id": "ratemyplacement",
+        "name": "RateMyPlacement",
+        "category": "Internships & Placements",
+        "baseUrl": "https://www.ratemyplacement.co.uk/",
+        "affiliateStructure": "https://www.ratemyplacement.co.uk/?utm_source=affiliate&utm_id={affiliateId}",
+        "description": "Internships, placements and graduate jobs",
+        "programs": [
+          "Year in Industry",
+          "Summer Internships",
+          "Spring Weeks"
+        ],
+        "commission": "£20 per application",
+        "cookieDuration": "30 days",
+        "enabled": true
+      },
+      {
+        "id": "targetjobs",
+        "name": "TARGETjobs",
+        "category": "Graduate Recruitment",
+        "baseUrl": "https://targetjobs.co.uk/",
+        "affiliateStructure": "https://targetjobs.co.uk/?partner={affiliateId}",
+        "description": "Graduate jobs and career advice",
+        "programs": [
+          "Graduate Schemes",
+          "Internships",
+          "Career Events"
+        ],
+        "commission": "8%",
+        "cookieDuration": "30 days",
+        "enabled": true
+      }
+    ]
+  },
+  "affiliateIds": {},
+  "customPrograms": [],
+  "lastUpdated": "2025-08-23T11:53:16.935Z"
+}

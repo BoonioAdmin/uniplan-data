@@ -1,0 +1,1371 @@
+{
+  "summary": {
+    "universitiesInComprehensive": 150,
+    "universitiesInCourseDetails": 287,
+    "universitiesInBoth": 149,
+    "universitiesMissing": 138,
+    "totalCoursesInDetails": 29664
+  },
+  "missingUniversities": [
+    {
+      "id": "81fe3292-5b22-efca-853a-e32870a2b0fe",
+      "name": "University of St Andrews",
+      "courseCount": 503,
+      "sampleCourses": [
+        "Ancient History",
+        "Ancient History and Archaeology",
+        "Ancient History and Archaeology and Social Anthropology"
+      ]
+    },
+    {
+      "id": "4b70e003-9056-dea2-e186-1dc3ad3316c9",
+      "name": "Swansea University",
+      "courseCount": 502,
+      "sampleCourses": [
+        "Accounting",
+        "Accounting &amp; Finance with a Foundation Year",
+        "Accounting &amp; Finance with a Year in Industry"
+      ]
+    },
+    {
+      "id": "bd0c70d8-cc38-309f-cecb-34f0c195b137",
+      "name": "UCL (University College London)",
+      "courseCount": 452,
+      "sampleCourses": [
+        "Ancient History",
+        "Ancient Languages",
+        "Ancient Languages with Year Abroad"
+      ]
+    },
+    {
+      "id": "9698b0cc-2162-611f-edae-2e26d58ea92f",
+      "name": "Nottingham Trent University",
+      "courseCount": 393,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance",
+        "Accounting and Finance (with Foundation Year)"
+      ]
+    },
+    {
+      "id": "01b03c44-38c1-56b2-1a0d-90720d6ce111",
+      "name": "University of Manchester",
+      "courseCount": 367,
+      "sampleCourses": [
+        "Accounting",
+        "Accounting and Finance",
+        "Accounting with Industrial/Professional Experience"
+      ]
+    },
+    {
+      "id": "0f5d882f-2ebe-1b13-fc9d-98363e55d1d4",
+      "name": "University of Southampton",
+      "courseCount": 332,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance with Placement Year",
+        "Accounting and Finance with Study Abroad Year"
+      ]
+    },
+    {
+      "id": "5cc768aa-774a-7fc8-97fb-686b2f068676",
+      "name": "University of Strathclyde",
+      "courseCount": 320,
+      "sampleCourses": [
+        "Accounting",
+        "Accounting &amp; Business Analysis and Technology",
+        "Accounting &amp; Business Enterprise"
+      ]
+    },
+    {
+      "id": "5ea13bf3-a5ff-0ec1-873b-f3842afb46a6",
+      "name": "University of Surrey",
+      "courseCount": 313,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance",
+        "Accounting and Finance with Foundation Year"
+      ]
+    },
+    {
+      "id": "856d62c2-800c-07ea-e751-1bbae4c76f4b",
+      "name": "Queen Mary University of London",
+      "courseCount": 295,
+      "sampleCourses": [
+        "Accountancy - Flying Start Degree Programme",
+        "Accounting and Finance",
+        "Accounting and Finance with Integrated Foundation Year"
+      ]
+    },
+    {
+      "id": "039b8331-636f-6c80-ba3f-47b93af8ccb5",
+      "name": "University of Portsmouth",
+      "courseCount": 283,
+      "sampleCourses": [
+        "Accountancy and Financial Management (Top-Up)",
+        "Accounting with Finance",
+        "Accounting with Finance with Foundation Year"
+      ]
+    },
+    {
+      "id": "351374e0-7548-01be-a996-dc560274708e",
+      "name": "University of Oxford",
+      "courseCount": 281,
+      "sampleCourses": [
+        "Ancient and Modern History",
+        "Ancient and Modern History with Foundation Year",
+        "Arabic"
+      ]
+    },
+    {
+      "id": "c283b1b0-f407-0c6f-ca7d-c63b2604f5cc",
+      "name": "University of Reading",
+      "courseCount": 278,
+      "sampleCourses": [
+        "Accounting and Business - Flying Start Degree Programme",
+        "Accounting and Finance",
+        "Accounting and Finance (with Placement Experience)"
+      ]
+    },
+    {
+      "id": "f40210c2-c564-5bfc-ee3b-98ced83963b8",
+      "name": "University of York",
+      "courseCount": 272,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance with a year in industry",
+        "Accounting, Business Finance &amp; Management with a Year in Industry"
+      ]
+    },
+    {
+      "id": "7f559a95-6b5f-41eb-1fd9-54f3f34b21c3",
+      "name": "Open University",
+      "courseCount": 264,
+      "sampleCourses": [
+        "Accounting and Finance (R52)",
+        "Accounting and Finance (W18)",
+        "Art History and Visual Cultures (R27)"
+      ]
+    },
+    {
+      "id": "b935bbb7-cac6-ee2a-2df0-8cf09d7016c2",
+      "name": "Loughborough University",
+      "courseCount": 262,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance (with placement year)",
+        "Aeronautical Engineering"
+      ]
+    },
+    {
+      "id": "4b00d284-8af2-9520-230e-8e14993d398d",
+      "name": "University of West London",
+      "courseCount": 253,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance with Foundation Year",
+        "Accounting and Finance with Internship"
+      ]
+    },
+    {
+      "id": "79f42328-0271-1ace-1aec-05359cc16dd9",
+      "name": "University of Nottingham",
+      "courseCount": 249,
+      "sampleCourses": [
+        "Accountancy - Flying Start Degree Programme",
+        "Aerospace Engineering",
+        "Aerospace Engineering"
+      ]
+    },
+    {
+      "id": "bb9bf30f-81f9-01ac-51d3-40c9aa40e63e",
+      "name": "Manchester Metropolitan University",
+      "courseCount": 241,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance (Foundation Year)",
+        "Accounting for Business (Top-up)"
+      ]
+    },
+    {
+      "id": "5b13b3ae-6a43-53a5-7382-2c010763dd54",
+      "name": "Royal Holloway, University of London",
+      "courseCount": 237,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance with a Year in Business",
+        "Ancient and Medieval History"
+      ]
+    },
+    {
+      "id": "63840f6d-a848-3256-1729-a2f36734d1a7",
+      "name": "SOAS University of London",
+      "courseCount": 235,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance with Year in Industry",
+        "Africa and Black Diaspora and Economics including a year abroad"
+      ]
+    },
+    {
+      "id": "0a5af9c9-f05a-bf52-fce5-c89917335f67",
+      "name": "University of Wolverhampton",
+      "courseCount": 229,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance with Foundation Year",
+        "Accounting and Finance with Sandwich Placement"
+      ]
+    },
+    {
+      "id": "af611462-ca90-dadf-f0e8-d4cc25129f91",
+      "name": "Sheffield Hallam University",
+      "courseCount": 225,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance with Foundation Year",
+        "Acting and Performance"
+      ]
+    },
+    {
+      "id": "3e45ece0-e028-cc61-58ac-43f91dc2f3f0",
+      "name": "Queen's University Belfast",
+      "courseCount": 223,
+      "sampleCourses": [
+        "Accounting with French",
+        "Accounting with Spanish",
+        "Actuarial Science and Risk Management"
+      ]
+    },
+    {
+      "id": "895f238c-14a8-283a-a1d6-067e959dd858",
+      "name": "University of Roehampton",
+      "courseCount": 213,
+      "sampleCourses": [
+        "Accounting",
+        "Accounting Studies Top Up",
+        "Accounting with Foundation Year"
+      ]
+    },
+    {
+      "id": "408b9be4-df53-0595-e1f4-8c3a701c0682",
+      "name": "Northumbria University, Newcastle",
+      "courseCount": 209,
+      "sampleCourses": [
+        "Accounting",
+        "Accounting (Extended Degree)",
+        "Accounting and Finance (Completion Award)"
+      ]
+    },
+    {
+      "id": "6e856d76-a6f1-2fb0-93d8-94415e6bfa0e",
+      "name": "University of Sussex",
+      "courseCount": 209,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance (with a professional placement year)",
+        "American Studies (with a study abroad year)"
+      ]
+    },
+    {
+      "id": "07fe4a70-9239-e4cb-813c-ae2f7715336f",
+      "name": "University of Salford",
+      "courseCount": 205,
+      "sampleCourses": [
+        "Accelerated Nursing (Adult)",
+        "Accelerated Nursing (Children and Young People)",
+        "Accelerated Nursing (Mental Health)"
+      ]
+    },
+    {
+      "id": "250ab332-bd0a-3163-e03a-2a1f16466346",
+      "name": "University of Plymouth",
+      "courseCount": 203,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance with Foundation Year",
+        "Acting for Screen, Stage and Future Media"
+      ]
+    },
+    {
+      "id": "ff1a14b9-1214-76dc-340b-3822d9ea6c72",
+      "name": "University of Wales Trinity Saint David",
+      "courseCount": 202,
+      "sampleCourses": [
+        "Accounting",
+        "Accounting with Placement Year",
+        "Acting"
+      ]
+    },
+    {
+      "id": "b46d1424-48eb-18c7-b84c-ae0a0799dcfc",
+      "name": "Teesside University",
+      "courseCount": 201,
+      "sampleCourses": [
+        "2D Animation and Stop Motion",
+        "2D Animation and Stop Motion with Foundation Year",
+        "Accounting and Finance"
+      ]
+    },
+    {
+      "id": "a33ecb69-a317-4e2c-6143-e665fdb20b14",
+      "name": "University of South Wales",
+      "courseCount": 198,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance (Including Foundation Year)",
+        "Accounting and Finance (Sandwich course)"
+      ]
+    },
+    {
+      "id": "f92b2692-af07-4b91-95a0-fc33c3f33bf6",
+      "name": "Southampton, Solent University",
+      "courseCount": 197,
+      "sampleCourses": [
+        "Accountancy and Finance",
+        "Accountancy and Finance with Foundation Year",
+        "Accountancy and Finance with Placement"
+      ]
+    },
+    {
+      "id": "0ad2bf41-bb38-0b1b-ec75-acf0845530a7",
+      "name": "University of Westminster, London",
+      "courseCount": 197,
+      "sampleCourses": [
+        "Accounting and Business Management",
+        "Accounting and Finance",
+        "Animation"
+      ]
+    },
+    {
+      "id": "38236ddf-b8b2-e1fc-ec2f-6dda0a630eb0",
+      "name": "University of Staffordshire",
+      "courseCount": 195,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance (with a Foundation Year)",
+        "Accounting and Finance (with a Placement Year)"
+      ]
+    },
+    {
+      "id": "d422b186-8335-d857-34a8-7ce618a55de0",
+      "name": "Oxford Brookes University",
+      "courseCount": 191,
+      "sampleCourses": [
+        "Accounting and Economics",
+        "Accounting and Economics (with Foundation Year)",
+        "Accounting and Finance"
+      ]
+    },
+    {
+      "id": "e59d51a1-d4b5-314b-a01d-e013b9b51a80",
+      "name": "University of Warwick",
+      "courseCount": 182,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance (with Foundation Year)",
+        "Accounting and Finance (with Foundation Year) with Placement Year"
+      ]
+    },
+    {
+      "id": "36dc6feb-81b2-d5b7-eabf-33396c2683a2",
+      "name": "London Metropolitan University",
+      "courseCount": 180,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Financial Services (Top-up)",
+        "Advertising, Marketing Communications and Public Relations"
+      ]
+    },
+    {
+      "id": "62431d8f-c60b-58bb-0df6-e80b0dc05c48",
+      "name": "University of Worcester",
+      "courseCount": 179,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance",
+        "Accounting and Finance (Placement Year)"
+      ]
+    },
+    {
+      "id": "20b2137b-2930-80ed-337f-27127a9f1d28",
+      "name": "University of Stirling",
+      "courseCount": 174,
+      "sampleCourses": [
+        "Accountancy",
+        "Accountancy and Business Law",
+        "Accountancy and Business Studies"
+      ]
+    },
+    {
+      "id": "b0c96a45-5ad1-7f8b-1e71-073221059886",
+      "name": "Ulster University",
+      "courseCount": 174,
+      "sampleCourses": [
+        "Accounting (Pathways)",
+        "Accounting and Finance",
+        "Accounting and Law"
+      ]
+    },
+    {
+      "id": "1f6ba907-0961-cb7c-54be-14d6a47439b0",
+      "name": "University of Northampton",
+      "courseCount": 171,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance (with Foundation Year)",
+        "Acting for Stage and Screen"
+      ]
+    },
+    {
+      "id": "dbd76d8b-f49a-679e-306f-eb59a8bdc52c",
+      "name": "University of Sheffield",
+      "courseCount": 167,
+      "sampleCourses": [
+        "Accounting and Financial Management",
+        "Accounting and Financial Management and Economics",
+        "Aerospace Engineering"
+      ]
+    },
+    {
+      "id": "6d0cfb92-5817-1f26-10d0-52e6e2c1123c",
+      "name": "York St John University",
+      "courseCount": 147,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance with Foundation Year",
+        "Accounting and Finance with Placement Year"
+      ]
+    },
+    {
+      "id": "5692045c-9274-b50e-8467-fb52ce4ef728",
+      "name": "Middlesex University",
+      "courseCount": 145,
+      "sampleCourses": [
+        "3D Animation for Games and Film",
+        "3D Animation for Games and Film with Foundation Year",
+        "Accounting and Finance"
+      ]
+    },
+    {
+      "id": "9528a5b4-845b-84f5-974e-92d025a75d1f",
+      "name": "Newcastle University",
+      "courseCount": 139,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance (with Placement)",
+        "Aerospace Engineering"
+      ]
+    },
+    {
+      "id": "5f968715-d4b4-afb5-e842-8a4a024feb0d",
+      "name": "University of Sunderland",
+      "courseCount": 136,
+      "sampleCourses": [
+        "Accounting and Finance (with Professional Exemptions ACCA, CIMA, CPA)",
+        "Accounting and Financial Management (Top-Up)",
+        "Accounting and Financial Systems"
+      ]
+    },
+    {
+      "id": "b8a3b6cb-f484-8bf8-3a8e-3d44c636cbd8",
+      "name": "London South Bank University",
+      "courseCount": 122,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting and Finance",
+        "Accounting and Finance (with Foundation Year)"
+      ]
+    },
+    {
+      "id": "bd68226f-3d1d-ba3e-abb0-4d6b5d099425",
+      "name": "Norwich University of the Arts",
+      "courseCount": 117,
+      "sampleCourses": [
+        "Acting",
+        "Acting with Diploma in Creative Computing",
+        "Acting with Diploma in Creative Professional Development"
+      ]
+    },
+    {
+      "id": "88e1a042-03f5-c63b-5bf8-d78622277c4e",
+      "name": "University of Greater Manchester",
+      "courseCount": 116,
+      "sampleCourses": [
+        "Accountancy",
+        "Accountancy with foundation year",
+        "Animation and Illustration"
+      ]
+    },
+    {
+      "id": "1264b52a-16b1-e13e-31e1-246da0955bd1",
+      "name": "St Mary's University, Twickenham",
+      "courseCount": 112,
+      "sampleCourses": [
+        "Acting",
+        "Bachelor of Medicine Bachelor of Surgery (MBBS)",
+        "Business Management"
+      ]
+    },
+    {
+      "id": "fdb6a3ab-185d-286d-e06f-f97135cade7f",
+      "name": "Wrexham University",
+      "courseCount": 112,
+      "sampleCourses": [
+        "Accounting &amp; Finance Management (with Industry Placement)",
+        "Accounting and Finance Management",
+        "Accounting and Finance Management (with Foundation Year)"
+      ]
+    },
+    {
+      "id": "34ba7b64-9643-c8e7-1709-02bcf2e15551",
+      "name": "University of Winchester",
+      "courseCount": 97,
+      "sampleCourses": [
+        "Accounting &amp; Finance",
+        "Accounting and Finance (Accelerated)",
+        "Accounting and Finance (with Foundation Year)"
+      ]
+    },
+    {
+      "id": "9928464e-bb25-4e0f-be6d-1373b4d28306",
+      "name": "University of the Arts London",
+      "courseCount": 92,
+      "sampleCourses": [
+        "Acting and Performance",
+        "Advertising",
+        "Animation"
+      ]
+    },
+    {
+      "id": "d064e8a8-954c-2d57-1aec-e099af852d0a",
+      "name": "University of the West of Scotland",
+      "courseCount": 88,
+      "sampleCourses": [
+        "Accounting",
+        "Adult Nursing",
+        "Aircraft Engineering"
+      ]
+    },
+    {
+      "id": "5a3cac22-f05b-20b5-d281-c122d1490650",
+      "name": "Robert Gordon University",
+      "courseCount": 77,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Accounting with Business Analytics",
+        "Advanced Architectural Technology"
+      ]
+    },
+    {
+      "id": "cf271b96-f9f1-4eef-e308-bb33fe18a91a",
+      "name": "University of Suffolk",
+      "courseCount": 66,
+      "sampleCourses": [
+        "Accounting and Finance",
+        "Additional Support Needs",
+        "Adult Nursing"
+      ]
+    },
+    {
+      "id": "5d4edcb5-499b-015d-96f6-1d45b26ef33e",
+      "name": "Warwickshire College and University Centre",
+      "courseCount": 58,
+      "sampleCourses": [
+        "Animal Behaviour and Training",
+        "Animal Behaviour and Training with Integrated Foundation Year",
+        "Animation"
+      ]
+    },
+    {
+      "id": "3a1c51f4-7a05-4bc2-803d-6e5aef715bc0",
+      "name": "Nelson and Colne College Group",
+      "courseCount": 51,
+      "sampleCourses": [
+        "Advanced Manufacturing Engineering",
+        "Advanced Manufacturing Engineering",
+        "Aeronautical Engineering"
+      ]
+    },
+    {
+      "id": "6f003a01-db03-39c5-2eff-eb8f18fda755",
+      "name": "Ravensbourne University London",
+      "courseCount": 46,
+      "sampleCourses": [
+        "3D Animation",
+        "3D Animation with Integrated Foundation Year",
+        "Advertising &amp; Brand Design with Integrated Foundation Year"
+      ]
+    },
+    {
+      "id": "4ddd9e94-ea3e-42b7-a987-41a29d802ee0",
+      "name": "University Academy 92 (UA92)",
+      "courseCount": 44,
+      "sampleCourses": [
+        "Accounting",
+        "Accounting and Business Management",
+        "Accounting and Business Management"
+      ]
+    },
+    {
+      "id": "33779918-25ec-9f8a-caf2-39cc55d53363",
+      "name": "University Centre Grimsby",
+      "courseCount": 44,
+      "sampleCourses": [
+        "Applied Art and Design",
+        "Assistant Practitioner - Health",
+        "Assistant Practitioner - Health and Care"
+      ]
+    },
+    {
+      "id": "25fe3db7-b8b4-4c71-029b-37a6ad3006fa",
+      "name": "London School of Economics and Political Science, University of London",
+      "courseCount": 43,
+      "sampleCourses": [
+        "Accounting &amp; Finance",
+        "Actuarial Science",
+        "Actuarial Science (with a Placement Year)"
+      ]
+    },
+    {
+      "id": "a3bf2ac2-f379-5b8b-0411-bc11fa9bf92f",
+      "name": "Plymouth Marjon University",
+      "courseCount": 41,
+      "sampleCourses": [
+        "Assistant Practitioner",
+        "Community Football Coaching",
+        "Community Football Coaching (with Professional Practice Year)"
+      ]
+    },
+    {
+      "id": "babaeca8-51e1-acab-ba7d-bde04f761c37",
+      "name": "City College Plymouth",
+      "courseCount": 40,
+      "sampleCourses": [
+        "Applied Computer Science (top-up)",
+        "Applied Forensic Science",
+        "Applied Sciences"
+      ]
+    },
+    {
+      "id": "319ba5b1-c95f-00a3-2ce3-8bbe070ec3f5",
+      "name": "Nottingham College",
+      "courseCount": 39,
+      "sampleCourses": [
+        "Acting",
+        "Art and Design (Fine Art) Top-up",
+        "Business and Management"
+      ]
+    },
+    {
+      "id": "2a479d97-8084-9f4b-647b-c185a877a8b5",
+      "name": "Coleg Sir Gar",
+      "courseCount": 38,
+      "sampleCourses": [
+        "3D Design &amp; Animation",
+        "3D Design &amp; Animation",
+        "Amaethyddiaeth"
+      ]
+    },
+    {
+      "id": "403c3afa-827f-7f37-55c1-9c5d403335c7",
+      "name": "Queen Margaret University, Edinburgh",
+      "courseCount": 37,
+      "sampleCourses": [
+        "Acting and Performance",
+        "Associate Degree - Psychology and Sociology",
+        "Business Management"
+      ]
+    },
+    {
+      "id": "7ca2e52f-06de-0b6c-65ac-b8f2c1717464",
+      "name": "University Centre Peterborough",
+      "courseCount": 35,
+      "sampleCourses": [
+        "Adult Care Leadership and Management",
+        "Animal Conservation and Countryside Management",
+        "Animal Management (Animal Behaviour and Welfare)"
+      ]
+    },
+    {
+      "id": "ad154893-2a54-7c4a-5e8a-2dfa04fea9f5",
+      "name": "Trafford &amp; Stockport College Group",
+      "courseCount": 33,
+      "sampleCourses": [
+        "Applied Science-Forensic Science",
+        "Assistant Practitioner (Health and Social Care)",
+        "Building Services Engineering for England (Electrical)"
+      ]
+    },
+    {
+      "id": "0014c21f-944c-e481-c807-3e85323bfd4b",
+      "name": "Royal Agricultural University",
+      "courseCount": 32,
+      "sampleCourses": [
+        "Agri-Management (Top Up)",
+        "Agricultural Business Management",
+        "Agricultural Business Management with Foundation Year"
+      ]
+    },
+    {
+      "id": "9bebda25-7230-c5e9-3f66-a2196a92a011",
+      "name": "UCFB",
+      "courseCount": 32,
+      "sampleCourses": [
+        "Football Business",
+        "Football Business and Finance",
+        "Football Business and Finance with Foundation Year"
+      ]
+    },
+    {
+      "id": "d157880f-65c1-4a1e-808a-1579a4bea548",
+      "name": "West Suffolk College",
+      "courseCount": 31,
+      "sampleCourses": [
+        "Animal Management (HND) - Animal Behaviour and Welfare",
+        "Art Practice",
+        "Business and Management"
+      ]
+    },
+    {
+      "id": "3c63c31c-9a57-cf90-dd89-5e64021e2163",
+      "name": "University Centre South Devon",
+      "courseCount": 30,
+      "sampleCourses": [
+        "Animal Science",
+        "Applied Animal Science (Top-up)",
+        "Assistant Practitioner"
+      ]
+    },
+    {
+      "id": "ba944ca6-36af-188e-40a1-324e839230de",
+      "name": "SRUC Scotland's Rural College",
+      "courseCount": 29,
+      "sampleCourses": [
+        "Agriculture",
+        "Agriculture",
+        "Agriculture"
+      ]
+    },
+    {
+      "id": "ae8f02f9-4bc7-ece6-9b85-2b0a542e2f39",
+      "name": "University Centre Reaseheath",
+      "courseCount": 28,
+      "sampleCourses": [
+        "Animal Management (Behaviour &amp; Welfare)",
+        "Animal Management (Behaviour and Welfare)",
+        "Animal Management (Behaviour and Welfare) (Top-Up)"
+      ]
+    },
+    {
+      "id": "80031aa0-3cca-4261-8c26-a231f0e49a09",
+      "name": "SGS (South Gloucestershire and Stroud College)",
+      "courseCount": 28,
+      "sampleCourses": [
+        "Applied Sports Coaching and Physical Education",
+        "Applied Sports Conditioning and Exercise",
+        "Applied Sports Conditioning and Exercise Level 6 Top-up"
+      ]
+    },
+    {
+      "id": "31260746-2f58-40c2-dd26-74a7d063b040",
+      "name": "City of Sunderland College",
+      "courseCount": 28,
+      "sampleCourses": [
+        "Animal Welfare and Management",
+        "Animal Welfare and Management",
+        "BA (Hons) Performing Arts: Performance, Production &amp; Industry"
+      ]
+    },
+    {
+      "id": "d2e1adfe-7904-cd77-0cef-dafc40175a99",
+      "name": "University Campus Oldham",
+      "courseCount": 27,
+      "sampleCourses": [
+        "Children and Young People",
+        "Children and Young People Top Up",
+        "Children and Young People with Foundation Year"
+      ]
+    },
+    {
+      "id": "ee9a8e04-fe4f-ef42-bf78-65f0bd5a2fa4",
+      "name": "pointblank Music School",
+      "courseCount": 27,
+      "sampleCourses": [
+        "Music Business",
+        "Music Business",
+        "Music Business with Foundation Year"
+      ]
+    },
+    {
+      "id": "f4e4d70f-8b2a-4e4b-f333-94d35212b13e",
+      "name": "Yeovil College University Centre",
+      "courseCount": 27,
+      "sampleCourses": [
+        "Business",
+        "Childhood Studies Care and Education (Top-Up)",
+        "Childhood Studies Care and Education HTQ"
+      ]
+    },
+    {
+      "id": "f838c19c-04dc-f1cb-6240-daa92d8d50e2",
+      "name": "Loughborough College",
+      "courseCount": 26,
+      "sampleCourses": [
+        "Applied Sports Science",
+        "Business (Top Up)  Blended Learning",
+        "Business and Management"
+      ]
+    },
+    {
+      "id": "cfe1b520-9486-7aaf-3c1b-a4a87f073021",
+      "name": "University Centre Truro and Penwith",
+      "courseCount": 26,
+      "sampleCourses": [
+        "Adult Nursing",
+        "Adult Nursing Top-Up",
+        "Applied Computing Technologies (Top-Up)"
+      ]
+    },
+    {
+      "id": "7e3d3c04-9c48-b469-8737-cc0c92d0f3a2",
+      "name": "University Centre South Essex",
+      "courseCount": 26,
+      "sampleCourses": [
+        "Animation",
+        "Applied Sport and Exercise Science",
+        "Costume Construction"
+      ]
+    },
+    {
+      "id": "7c3e72d6-73d6-f65d-8d1c-e4c704c29a04",
+      "name": "University Centre Weston",
+      "courseCount": 25,
+      "sampleCourses": [
+        "Animal Conservation Management  (Top-up)",
+        "Animal Conservation, Behaviour and Welfare",
+        "Art and Design"
+      ]
+    },
+    {
+      "id": "d1045d7f-df89-34b6-e6a8-5bb9d9adf21e",
+      "name": "NPTC Group",
+      "courseCount": 24,
+      "sampleCourses": [
+        "Business Management",
+        "Business, Management and IT",
+        "Care Practices"
+      ]
+    },
+    {
+      "id": "f2b98edd-bd3f-2d36-a0e3-f4e70b878c16",
+      "name": "Royal Veterinary College, University of London",
+      "courseCount": 24,
+      "sampleCourses": [
+        "Animal Biology, Behaviour, Welfare and Ethics",
+        "Animal Biology, Behaviour, Welfare and Ethics with Placement Year",
+        "Applied Biological Research"
+      ]
+    },
+    {
+      "id": "ca9f4d85-b460-07bd-f9bb-215d59ef5561",
+      "name": "North Warwickshire and South Leicestershire College",
+      "courseCount": 22,
+      "sampleCourses": [
+        "Computing",
+        "Construction",
+        "Creative Computing  (Top Up)"
+      ]
+    },
+    {
+      "id": "e71cb3c4-5cd9-ca75-70d5-0c19aef08bf1",
+      "name": "University Centre Sparsholt",
+      "courseCount": 22,
+      "sampleCourses": [
+        "Agriculture",
+        "Agriculture",
+        "Agriculture (Top-up)"
+      ]
+    },
+    {
+      "id": "554e082a-7bc8-bc1e-daad-1f62fdbbac8e",
+      "name": "University Centre Rotherham",
+      "courseCount": 20,
+      "sampleCourses": [
+        "Animal Management",
+        "Animal Management",
+        "Business and Management"
+      ]
+    },
+    {
+      "id": "7d269cca-03ad-d105-a630-8d2a0cf1c39c",
+      "name": "University Centre Myerscough",
+      "courseCount": 19,
+      "sampleCourses": [
+        "Advanced Veterinary Nursing",
+        "Animal Science and Conservation (Top-up)",
+        "Applied Animal Science"
+      ]
+    },
+    {
+      "id": "db037e28-991d-ece0-2edb-90d079e142f3",
+      "name": "SAE Institute",
+      "courseCount": 18,
+      "sampleCourses": [
+        "Audio Production",
+        "Audio Production (3 year)",
+        "Content Creation &amp; Online Marketing"
+      ]
+    },
+    {
+      "id": "a840508b-baa5-e0f3-e673-86c2e3a9b903",
+      "name": "Shrewsbury Colleges Group",
+      "courseCount": 17,
+      "sampleCourses": [
+        "Computing",
+        "Computing",
+        "Digital Technologies"
+      ]
+    },
+    {
+      "id": "d66b3801-e0d8-c291-ab4c-7c7de644d37b",
+      "name": "Orbital South Colleges University Centre",
+      "courseCount": 16,
+      "sampleCourses": [
+        "Cloud Computing",
+        "Construction &amp; The Built Environment (Construction) 1 Year Fast-Track",
+        "Construction and the Built Environment (Building Services Engineering) 1 Year Fast-Track"
+      ]
+    },
+    {
+      "id": "22072435-fb1a-6e77-3143-e8a1a0577885",
+      "name": "Royal Conservatoire of Scotland",
+      "courseCount": 16,
+      "sampleCourses": [
+        "Acting",
+        "Arts with Community",
+        "Composition"
+      ]
+    },
+    {
+      "id": "b44ad48d-517e-4b2d-8eb3-a1d6c1f25c06",
+      "name": "South Thames College Group (inc Carshalton, South Thames and Kingston College)",
+      "courseCount": 16,
+      "sampleCourses": [
+        "Art and Design (Graphic Design) (Tattoo)",
+        "Business (Top-up)",
+        "Civil Engineering"
+      ]
+    },
+    {
+      "id": "16a7e353-421e-658b-688f-14b84d61c610",
+      "name": "New College Swindon University Centre",
+      "courseCount": 16,
+      "sampleCourses": [
+        "Advanced Make-Up, Hair and Prosthetics",
+        "Animal Management",
+        "Applied Sciences (Biology)"
+      ]
+    },
+    {
+      "id": "090716a0-1170-7040-4575-d499c997b6ca",
+      "name": "Wigan and Leigh College",
+      "courseCount": 16,
+      "sampleCourses": [
+        "Animal Management",
+        "Applied Science",
+        "BA (Hons) Education (Top-up)"
+      ]
+    },
+    {
+      "id": "590e6636-6b85-e54d-8a21-9bcf4e27eba3",
+      "name": "The Northern School of Art",
+      "courseCount": 15,
+      "sampleCourses": [
+        "Acting for Stage and Screen",
+        "Animation",
+        "Costume Interpretation with Design"
+      ]
+    },
+    {
+      "id": "f827e91c-8675-9440-e390-6a4a0b5ece68",
+      "name": "University Centre St Helens",
+      "courseCount": 13,
+      "sampleCourses": [
+        "Applied Microbiology",
+        "Criminal Justice",
+        "Early Years Practice"
+      ]
+    },
+    {
+      "id": "77bfcfb8-d2a3-a450-523b-a67a65a7d031",
+      "name": "Northeastern University London",
+      "courseCount": 12,
+      "sampleCourses": [
+        "Business",
+        "Computer Science &amp; Business",
+        "Culture, Technology &amp; Global Challenges"
+      ]
+    },
+    {
+      "id": "09c81910-9316-5cef-5f55-970346633f92",
+      "name": "Trinity Laban",
+      "courseCount": 12,
+      "sampleCourses": [
+        "BA (Hons) Contemporary Dance",
+        "BA (Hons) Contemporary Dance with Foundation Year",
+        "BA (Hons) Music Performance and Industry"
+      ]
+    },
+    {
+      "id": "6045fd2c-9f53-7a88-5e42-0412b370b361",
+      "name": "York College University Centre",
+      "courseCount": 12,
+      "sampleCourses": [
+        "3D Creative Practice (York School of Art)",
+        "Certificate in Education (Lifelong Learning)",
+        "Children's Development and Learning"
+      ]
+    },
+    {
+      "id": "a30c9a10-27bc-e9f3-6597-370d5c8cf03d",
+      "name": "Nazarene Theological College",
+      "courseCount": 11,
+      "sampleCourses": [
+        "Theology",
+        "Theology",
+        "Theology (Biblical Studies)"
+      ]
+    },
+    {
+      "id": "8df995e9-9656-947d-6471-af29d7bf99f1",
+      "name": "Tyne Coast College",
+      "courseCount": 11,
+      "sampleCourses": [
+        "Computing - South Tyneside College",
+        "Creative Media Production (Film)  - South Tyneside College",
+        "Creative Media Production (Film) - South Tyneside College"
+      ]
+    },
+    {
+      "id": "9fed7298-2fc2-82c1-d371-c3e9ed316094",
+      "name": "University Centre Calderdale College",
+      "courseCount": 11,
+      "sampleCourses": [
+        "Community, Public Health and Social Care",
+        "Community, Public Health and Social Care (Top-up)",
+        "Counselling and Applied Psychology (HTQ)"
+      ]
+    },
+    {
+      "id": "be7280d5-2028-68e8-2c0a-27c0518e805e",
+      "name": "Plumpton College",
+      "courseCount": 10,
+      "sampleCourses": [
+        "Applied Animal Behaviour &amp; Welfare (Top-up)",
+        "Applied Animal Behaviour and Conservation",
+        "Applied Zoology and Animal Conservation (Top-up)"
+      ]
+    },
+    {
+      "id": "5bc57c84-3270-8e10-ee6d-d897f3bca8a5",
+      "name": "Rose Bruford College",
+      "courseCount": 9,
+      "sampleCourses": [
+        "Acting",
+        "Acting for Screen and Devised Performance",
+        "Actor Musicianship"
+      ]
+    },
+    {
+      "id": "76a6ba43-a82f-b41b-3b39-c62553b2970d",
+      "name": "Royal Welsh College of Music and Drama",
+      "courseCount": 9,
+      "sampleCourses": [
+        "BA (Hons) Acting",
+        "BA (Hons) Musical Theatre",
+        "BMus (Hons) Jazz"
+      ]
+    },
+    {
+      "id": "337ec3b8-fdde-1ce5-f91e-1e03e51657da",
+      "name": "Stranmillis University College",
+      "courseCount": 9,
+      "sampleCourses": [
+        "Business &amp; Enterprise with Education",
+        "Early Childhood Studies",
+        "Early Childhood Studies (Foundation)"
+      ]
+    },
+    {
+      "id": "a524ae42-b4cb-4548-8f3d-4c6325754261",
+      "name": "New Model Institute for Technology and Engineering (NMITE)",
+      "courseCount": 8,
+      "sampleCourses": [
+        "Construction Management (BSc)",
+        "Construction Management (BSc) with Foundation Year",
+        "Integrated Engineering (BEng)"
+      ]
+    },
+    {
+      "id": "098ac3d1-c3ac-4548-c6be-3a127a5aacaf",
+      "name": "Royal Central School of Speech and Drama, University of London",
+      "courseCount": 8,
+      "sampleCourses": [
+        "Acting",
+        "Costume Production",
+        "Drama and Applied Theatre"
+      ]
+    },
+    {
+      "id": "3c2fd5ff-127e-5a43-724a-8f30fddadd9c",
+      "name": "University of the Built Environment",
+      "courseCount": 8,
+      "sampleCourses": [
+        "Access Module",
+        "Architectural Design Technology",
+        "Building Control"
+      ]
+    },
+    {
+      "id": "63b4cf1e-2e47-11c9-5b10-c292ef8bc986",
+      "name": "University Centre West Anglia",
+      "courseCount": 8,
+      "sampleCourses": [
+        "Applied Computer Science",
+        "Business Management",
+        "Early Childhood Studies (Graduate Practitioner)"
+      ]
+    },
+    {
+      "id": "0a4baa82-4cf3-1323-a562-076992e50aa3",
+      "name": "University of London Institute in Paris",
+      "courseCount": 6,
+      "sampleCourses": [
+        "French Studies",
+        "French Studies with Business",
+        "French Studies with History"
+      ]
+    },
+    {
+      "id": "7cb2e0fa-1c45-8872-67a5-67e8c1bb4e53",
+      "name": "MidKent College (Inc Medway School of Arts)",
+      "courseCount": 5,
+      "sampleCourses": [
+        "Fashion and Textiles",
+        "Fine Art Practice",
+        "Graphic Design"
+      ]
+    },
+    {
+      "id": "6650b619-250b-6137-af18-9682e03501dd",
+      "name": "Royal Academy of Music, University of London",
+      "courseCount": 5,
+      "sampleCourses": [
+        "Bachelor of Music (Honours)",
+        "Bachelor of Music (Honours) Composition",
+        "Bachelor of Music (Honours) Jazz"
+      ]
+    },
+    {
+      "id": "e4015e94-c8df-4934-d9ed-c77e001e2c0c",
+      "name": "Royal Birmingham Conservatoire",
+      "courseCount": 5,
+      "sampleCourses": [
+        "Acting BA",
+        "BMus (Hons) Composition",
+        "BMus (Hons) Music Technology"
+      ]
+    },
+    {
+      "id": "37ab70cb-6256-6b57-d1ac-5aaf16b3fca4",
+      "name": "Wiltshire College and University Centre",
+      "courseCount": 5,
+      "sampleCourses": [
+        "Computing",
+        "Electrical and Electronic Engineering",
+        "Leadership and Management"
+      ]
+    },
+    {
+      "id": "94090b0b-2ad1-43d3-511a-dfbfc364256e",
+      "name": "Royal Academy of Dance",
+      "courseCount": 4,
+      "sampleCourses": [
+        "Ballet Education",
+        "Dance Education (Distance Learning)",
+        "Dance Education (Distance Learning)"
+      ]
+    },
+    {
+      "id": "dd590a4b-1cf1-e758-446c-9df0da541a84",
+      "name": "Royal Northern College of Music",
+      "courseCount": 4,
+      "sampleCourses": [
+        "Bachelor of Arts in Music, Education and Society",
+        "Bachelor of Music with Honours",
+        "Bachelor of Music with Honours in Popular Music"
+      ]
+    },
+    {
+      "id": "bffe1f14-a9a5-4606-89fd-419c3f06e09e",
+      "name": "The Engineering &amp; Design Institute London",
+      "courseCount": 4,
+      "sampleCourses": [
+        "Engineering with Mechatronic Systems",
+        "Global Design Engineering",
+        "Global Design Engineering"
+      ]
+    },
+    {
+      "id": "a73de6e5-cd9f-eb2b-bd7c-b8bf1c1d0274",
+      "name": "West Herts College",
+      "courseCount": 4,
+      "sampleCourses": [
+        "Computing for England: Cyber Security (HTQ)",
+        "Film and Television",
+        "Game Development"
+      ]
+    },
+    {
+      "id": "bc261a05-99cf-4356-a0ee-6d2ccdca1688",
+      "name": "McTimoney College of Chiropractic",
+      "courseCount": 3,
+      "sampleCourses": [
+        "Master of Chiropractic (MChiro)",
+        "Master of Chiropractic (MChiro)",
+        "Master of Veterinary Chiropractic (MVetChiro)"
+      ]
+    },
+    {
+      "id": "a7f7caea-84ca-4362-bdb7-7ed9039a32c0",
+      "name": "Universite Paris Dauphine, London Campus",
+      "courseCount": 3,
+      "sampleCourses": [
+        "Economics and Management",
+        "Economics and Management - Year 3 Major in Applied Economics and Finance",
+        "Economics and Management - Year 3 Major in Management"
+      ]
+    },
+    {
+      "id": "5566408b-3047-fadd-a026-6346bdc1b202",
+      "name": "West Thames College",
+      "courseCount": 3,
+      "sampleCourses": [
+        "Applied Biology",
+        "Applied Biology",
+        "Creative Media Production (TV and Film)"
+      ]
+    },
+    {
+      "id": "e53c5903-fe17-57ac-3fda-afa6dcedef61",
+      "name": "Medway School of Pharmacy",
+      "courseCount": 2,
+      "sampleCourses": [
+        "Pharmacy (MPharm)",
+        "Pharmacy (MPharm) with Preparatory Year"
+      ]
+    },
+    {
+      "id": "8696d32d-ad71-4ce2-97b5-a9a04f6bd815",
+      "name": "Scarborough TEC",
+      "courseCount": 2,
+      "sampleCourses": [
+        "Community Care in Practice",
+        "Engineering for England (HTQ)"
+      ]
+    },
+    {
+      "id": "164a2e50-0e93-4141-07ee-22b6198c578f",
+      "name": "United Colleges Group",
+      "courseCount": 2,
+      "sampleCourses": [
+        "Computing",
+        "Music"
+      ]
+    },
+    {
+      "id": "f845254e-e619-067f-1500-3dd7e04a6087",
+      "name": "Weymouth and Kingston Maurward College",
+      "courseCount": 2,
+      "sampleCourses": [
+        "Animal Behaviour Welfare Conservation (Top Up)",
+        "Animal Behaviour, Welfare and Conservation"
+      ]
+    },
+    {
+      "id": "3e00a545-6710-4886-b89b-a2cd5f7beef8",
+      "name": "London Interdisciplinary School (LIS)",
+      "courseCount": 1,
+      "sampleCourses": [
+        "Arts and Sciences: Interdisciplinary Problems and Methods"
+      ]
+    },
+    {
+      "id": "881106e7-273d-c860-bbaf-b4acb29e3446",
+      "name": "Norland",
+      "courseCount": 1,
+      "sampleCourses": [
+        "Early Childhood Education and Care"
+      ]
+    },
+    {
+      "id": "08b3f282-b0c3-3716-c607-ce05f52a2fed",
+      "name": "North Hertfordshire College",
+      "courseCount": 1,
+      "sampleCourses": [
+        "Sport and Exercise Science"
+      ]
+    },
+    {
+      "id": "aad4cda5-4800-87b1-f718-2f1b9ce7a6a7",
+      "name": "North Kent College",
+      "courseCount": 1,
+      "sampleCourses": [
+        "Computing"
+      ]
+    },
+    {
+      "id": "8c7662bf-6ba4-3b6c-5bea-9515d1a1fc45",
+      "name": "Oaklands College",
+      "courseCount": 1,
+      "sampleCourses": [
+        "Community Coaching for England (HTQ)"
+      ]
+    },
+    {
+      "id": "5f0445dd-688c-9fdb-54e7-0c67048d32e8",
+      "name": "Royal College of Music",
+      "courseCount": 1,
+      "sampleCourses": [
+        "Bachelor of Music (Honours)"
+      ]
+    },
+    {
+      "id": "f1f9a1ea-2646-44ca-8512-ea909252545b",
+      "name": "SP Jain London School of Management",
+      "courseCount": 1,
+      "sampleCourses": [
+        "Business Administration"
+      ]
+    },
+    {
+      "id": "117bff52-14a6-4829-bd74-1a7c8d1a110b",
+      "name": "Two Mile Ash ITTP (partnered with Chiltern Training Group)",
+      "courseCount": 1,
+      "sampleCourses": [
+        "Primary and Early Years Education with QTS"
+      ]
+    },
+    {
+      "id": "2f918b81-7af4-4be8-ab28-1876c3e1475b",
+      "name": "Universal Centre of Sport",
+      "courseCount": 1,
+      "sampleCourses": [
+        "SPORT COACHING"
+      ]
+    }
+  ],
+  "comprehensiveNote": "The comprehensive JSON only contains pages 1-10 (150 universities)",
+  "dataIntegrityIssue": "Course details were scraped for universities not included in the partial comprehensive scrape"
+}
