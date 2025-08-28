@@ -5,15 +5,19 @@
     "totalCourses": 29664,
     "source": "UCAS course detail pages",
     "scraper": "course-details-scraper-v1.0",
-    "totalChunks": 6,
-    "chunkSize": 5000,
+    "totalChunks": 10,
+    "chunkSize": 3000,
     "files": [
       "course-details-chunk-1.json",
       "course-details-chunk-2.json",
       "course-details-chunk-3.json",
       "course-details-chunk-4.json",
       "course-details-chunk-5.json",
-      "course-details-chunk-6.json"
+      "course-details-chunk-6.json",
+      "course-details-chunk-7.json",
+      "course-details-chunk-8.json",
+      "course-details-chunk-9.json",
+      "course-details-chunk-10.json"
     ]
   }
 }

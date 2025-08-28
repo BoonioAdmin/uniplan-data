@@ -8,7 +8,7 @@ console.log('Reading course-details.json...');
 const data = JSON.parse(fs.readFileSync('course-details.json', 'utf8'));
 
 // Configuration
-const CHUNK_SIZE = 5000;
+const CHUNK_SIZE = 3000; // Smaller chunks to stay under 20MB
 const totalCourses = Object.keys(data.courses).length;
 const numChunks = Math.ceil(totalCourses / CHUNK_SIZE);
 
