@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "createdAt": "2025-08-19T17:46:34.950Z",
+    "lastUpdated": "2025-08-22T05:13:49.213Z",
+    "totalCourses": 29664,
+    "source": "UCAS course detail pages",
+    "scraper": "course-details-scraper-v1.0",
+    "totalChunks": 6,
+    "chunkSize": 5000,
+    "files": [
+      "course-details-chunk-1.json",
+      "course-details-chunk-2.json",
+      "course-details-chunk-3.json",
+      "course-details-chunk-4.json",
+      "course-details-chunk-5.json",
+      "course-details-chunk-6.json"
+    ]
+  }
+}
